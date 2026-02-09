@@ -1,0 +1,8 @@
+{
+  "name": "LifeDraft AI",
+  "description": "Simulate major life decisions with Aura, your friendly AI life counselor, providing probabilistic forecasting and strategic value alignment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
